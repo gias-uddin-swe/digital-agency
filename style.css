@@ -76,6 +76,9 @@ margin: 0 auto;
     border: none;
     margin: 5px;
 }
+btn:hover {
+    cursor:pointer;
+}
 .btn-more{
     background-color:rgb(245, 44, 44);
     color: white;
